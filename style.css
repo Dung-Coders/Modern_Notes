@@ -133,6 +133,7 @@ li span{
     font-size: 18px;
     color: rgb(40, 188, 238);
     display: flex;
+    text-align: left;
     flex-grow: 1;
     word-wrap: break-word;
     overflow-y: auto;
